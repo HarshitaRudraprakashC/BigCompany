@@ -19,7 +19,6 @@ import static org.apache.commons.lang3.StringUtils.*;
 
 public class BigCompanyApplication {
     public static void main(String[] args) throws Exception {
-//           "C:\Users\harsh\OneDrive\Documents\Employees.csv"
         System.out.println("Enter the file name and path. Eg: C:\\Documents\\Employees.csv");
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
